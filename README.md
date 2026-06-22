@@ -162,9 +162,15 @@ Publicação - Teste no GitHub Pages.
 
 
 ## Links 
-- Link do repositório:
-- Link do site publicado:
+
+- Link do repositório: https://github.com/gabriel-p-moraes/foco-educacao
+  
+- Link do site publicado: https://gabriel-p-moraes.github.io/foco-educacao/
+
 
 ## Contribuição dos integrantes 
+
 Anthony Luca - escolha do projeto, tipografia, cores e soluções / desenvolvimento da página. 
-Gabriel Moraes - organização de arquivos / desenvolvimento e publicação da página.
+
+Gabriel Moraes - organização de arquivos / desenvolvimento e publicação da página. 
+
